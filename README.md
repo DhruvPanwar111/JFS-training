@@ -1,5 +1,5 @@
 [README.md](https://github.com/user-attachments/files/33044202/README.md)
-# JFS-training# JFS Training Practicals & Capstone Modules
+# JFS-training# 
 
 Welcome to the Java Full Stack (JFS) Training Practical Projects repository. This repository houses two comprehensive enterprise-grade Java practical modules covering Core Java, Object-Oriented Design, Concurrency, Stream API, and Data Persistence.
 
